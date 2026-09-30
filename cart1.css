@@ -1,0 +1,20 @@
+.cart-img {
+    height: 100px;
+    width: 100px;
+    object-fit: contain;
+}
+
+.cart-summary {
+    border-radius: 12px;
+}
+
+.cart-summary .btn-success {
+    background-color: #55d66b;
+    border: none;
+    color: #10232D;
+    font-weight: 600;
+}
+
+.cart-summary .btn-success:hover {
+    background-color: #43c858;
+}
